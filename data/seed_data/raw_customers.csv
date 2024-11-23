@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,date_of_birth,city,country,created_at,updated_at
+1,John,Doe,john.doe@email.com,1990-01-01,New York,USA,2023-01-01,2023-01-01
+2,Jane,Smith,jane.smith@email.com,1992-05-15,London,UK,2023-01-02,2023-01-02
+3,Bob,Johnson,bob.j@email.com,1988-12-31,Paris,France,2023-01-03,2023-01-03

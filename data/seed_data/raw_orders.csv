@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,order_status,order_amount,payment_method,shipping_address,created_at,updated_at
+1,1,2023-01-15,completed,100.50,credit_card,"123 Main St, New York",2023-01-15,2023-01-15
+2,1,2023-02-01,completed,75.25,paypal,"123 Main St, New York",2023-02-01,2023-02-01
+3,2,2023-02-15,pending,200.00,credit_card,"456 High St, London",2023-02-15,2023-02-15
